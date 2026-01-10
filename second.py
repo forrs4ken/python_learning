@@ -1,1 +1,0 @@
-print("ikinci deneme dosyası")
