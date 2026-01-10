@@ -10,4 +10,4 @@ for i in word:
   print("kelime aradiginiz harfi icerir.")
   break
 else:
-  print("kelime aradiginiz harfi icermez."
+  print("kelime aradiginiz harfi icermez.")
