@@ -11,3 +11,5 @@ for i in word:
   break
 else:
   print("kelime aradiginiz harfi icermez.")
+
+input("Çıkmak için Enter'a bas...")
